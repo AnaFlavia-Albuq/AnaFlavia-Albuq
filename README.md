@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  ✨🔭Sou <b>Ana Flávia</b>, Analista de Dados na Compass UOL, graduada em Análise e Desenvolvimento de Sistema pela Estácio e com pós-graduação MBA em Data Science e Analytics pela USP Esalq. ✨ <br/></p>
+  ✨🔭Sou <b>Ana Flávia</b>, Analista de Dados na Compass UOL, graduada em Análise e Desenvolvimento de Sistemas pela Estácio e com pós-graduação MBA em Data Science e Analytics pela USP Esalq. ✨ <br/></p>
   🛠️Tenho experiência com SQL, Power BI, Databricks SQL e grandes volumes de dados, mas já trabalhei com PL SQL, Pentaho e PDI para criação de ETL de dados para o Data Warehouse, HTML, Javascript e CSS.</p>
   👯Meu objetivo é atuar em projetos de Ciência de Dados.</p>
   🌱Atualmente estou estudando Machine Learning, IA e tecnologias como: Databricks e AWS; linguagem Python e API Pyspark.
