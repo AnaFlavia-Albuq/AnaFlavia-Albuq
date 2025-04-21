@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  ✨🔭I am <b>Ana Flávia</b>, Data Analyst at Compass UOL, graduated in Systems Analysis and Development from Estácio and with a postgraduate MBA in Data Science and Analytics from USP Esalq. ✨ <br/></p>
-  🛠️I have experience with SQL, Power BI, Databricks SQL and big data, but I have worked with PL SQL, Pentaho and PDI to create data ETL for the Data Warehouse, HTML, Javascript and CSS.</p>
-  👯My goal is to work on Data Science projects.</p>
+  ✨🔭I am <b>Ana Flávia</b>, Data Analyst at Compass UOL, graduated in Systems Analysis and Development from Estácio and postgraduate MBA in Data Science and Analytics from USP Esalq. ✨ <br/></p>
+  🛠️I have experience with SQL, Power BI, Databricks SQL and big volumes of data, but I have worked with PL SQL, Pentaho and PDI to create data ETL for the Data Warehouse, HTML, Javascript and CSS.</p>
+  👯My goal is to work with Data Science projects.</p>
   🌱I am currently studying Machine Learning, AI and technologies such as: Databricks and AWS; Python language and Pyspark API.
 </p>
 
