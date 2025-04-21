@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  ✨🔭Sou <b>Ana Flávia</b>, Analista de Dados na Compass UOL, graduada em Análise e Desenvolvimento de Sistemas pela Estácio e com pós-graduação MBA em Data Science e Analytics pela USP Esalq. ✨ <br/></p>
-  🛠️Tenho experiência com SQL, Power BI, Databricks SQL e grandes volumes de dados, mas já trabalhei com PL SQL, Pentaho e PDI para criação de ETL de dados para o Data Warehouse, HTML, Javascript e CSS.</p>
-  👯Meu objetivo é atuar em projetos de Ciência de Dados.</p>
-  🌱Atualmente estou estudando Machine Learning, IA e tecnologias como: Databricks e AWS; linguagem Python e API Pyspark.
+  ✨🔭I am <b>Ana Flávia</b>, Data Analyst at Compass UOL, graduated in Systems Analysis and Development from Estácio and with a postgraduate MBA in Data Science and Analytics from USP Esalq. ✨ <br/></p>
+  🛠️I have experience with SQL, Power BI, Databricks SQL and big data, but I have worked with PL SQL, Pentaho and PDI to create data ETL for the Data Warehouse, HTML, Javascript and CSS.</p>
+  👯My goal is to work on Data Science projects.</p>
+  🌱I am currently studying Machine Learning, AI and technologies such as: Databricks and AWS; Python language and Pyspark API.
 </p>
 
 
 ## 🛠️ Tech Stack & Skills  
 
-- Análise exploratória de dados 
-- Modelagem de dados 
-- Data Storytelling  
-- Data Visualization
-- English - B2 Level
-- Estatística
-- Linguagens: SQL, Python, DAX, Power Query M
-- Versionamento de Projetos: Git e Github, VSCode
-- Organização de projetos: Trello, Jira
-- Ferramentas de BI: Power BI, Pentaho
+- Exploratory data analysis
+- Data modeling
+- Data storytelling
+- Data visualization
+- English - B2 level
+- Statistics
+- Languages: SQL, Python, DAX, Power Query M
+- Project versioning: Git and Github, VSCode
+- Project organization: Trello, Jira
+- BI tools: Power BI, Pentaho
 - Databricks
