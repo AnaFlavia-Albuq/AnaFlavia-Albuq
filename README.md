@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 - Project organization: Trello, Jira
 - BI tools: Power BI, Pentaho
 - Databricks
+- AWS beginner
+- Gen AI
